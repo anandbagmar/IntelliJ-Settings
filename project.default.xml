@@ -1,0 +1,41 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="DefaultGradleProjectSettings">
+        <option name="isMigrated" value="true" />
+      </component>
+      <component name="GradleLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/projects/eot/agilefaqs/games24x7/rc/e2e" value="PREVIEW" />
+            <entry key="$USER_HOME$/projects/eot/agilefaqs/games24x7/rc/functionalautomation" value="PREVIEW" />
+            <entry key="$USER_HOME$/projects/eot/chargedup/src/chargedup_e2e" value="PREVIEW" />
+            <entry key="$USER_HOME$/projects/my/viu-e2e" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="ProjectViewState">
+        <option name="autoscrollFromSource" value="true" />
+        <option name="autoscrollToSource" value="true" />
+        <option name="showLibraryContents" value="true" />
+        <option name="showVisibilityIcons" value="true" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
