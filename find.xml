@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java, *.feature, *.properties" />
+    <option name="FILE_MASK" value="*.java, *.feature, *.properties, *.gradle, *.json" />
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*.feature</mask>
@@ -20,5 +20,7 @@
     <mask>*.java</mask>
     <mask>*.java, *.feature</mask>
     <mask>*.java, *.feature, *.properties</mask>
+    <mask>*.java, *.feature, *.properties, *.gradle</mask>
+    <mask>*.java, *.feature, *.properties, *.gradle, *.json</mask>
   </component>
 </application>
