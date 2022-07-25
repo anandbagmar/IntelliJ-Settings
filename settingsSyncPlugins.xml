@@ -2,6 +2,19 @@
   <component name="SettingsSyncPlugins">
     <option name="plugins">
       <map>
+        <entry key="AntSupport">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.java" />
+                  <option value="com.intellij.properties" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
         <entry key="DevKit">
           <value>
             <PluginData>
@@ -16,6 +29,17 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="GrepConsole">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="Key Promoter X">
           <value>
             <PluginData>
@@ -24,7 +48,6 @@
                   <option value="com.intellij.modules.lang" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -38,7 +61,17 @@
                   <option value="com.intellij.modules.platform" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="MetricsReloaded">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
             </PluginData>
           </value>
         </entry>
@@ -78,6 +111,30 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="club.nutsoft.Github3Theme">
+          <value>
+            <PluginData>
+              <option name="category" value="UI" />
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="color.scheme.GitHub 3">
+          <value>
+            <PluginData>
+              <option name="category" value="UI" />
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.android.tools.idea.smali">
           <value>
             <PluginData>
@@ -87,7 +144,6 @@
                   <option value="com.intellij.modules.lang" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -103,16 +159,53 @@
             </PluginData>
           </value>
         </entry>
-        <entry key="com.intellij.completion.ml.ranking">
+        <entry key="com.github.kisstkondoros.codemetrics">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.java" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.google.idea.bazel.ijwb">
           <value>
             <PluginData>
               <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
-        <entry key="com.intellij.laf.macos">
+        <entry key="com.intellij.completion.ml.ranking">
+          <value>
+            <PluginData />
+          </value>
+        </entry>
+        <entry key="com.intellij.ideolog">
           <value>
             <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.intellij.laf.macos">
+          <value>
+            <PluginData />
+          </value>
+        </entry>
+        <entry key="com.intellij.marketplace">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
               <option name="enabled" value="false" />
             </PluginData>
           </value>
@@ -151,7 +244,6 @@
                   <option value="com.intellij.modules.vcs" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -171,10 +263,39 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.jetbrains.performancePlugin">
+          <value>
+            <PluginData />
+          </value>
+        </entry>
+        <entry key="com.jetbrains.plugins.ini4idea">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.jetbrains.space">
           <value>
             <PluginData>
               <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.kn.diagrams.generator.generator">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.java" />
+                  <option value="com.intellij.modules.java" />
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
             </PluginData>
           </value>
         </entry>
@@ -271,7 +392,6 @@
                   <option value="com.intellij.modules.lang" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -293,6 +413,30 @@
               <option name="dependencies">
                 <set>
                   <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="org.intellij.qodana">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="org.intellij.scala">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.java" />
                 </set>
               </option>
               <option name="enabled" value="false" />
@@ -367,9 +511,7 @@
         </entry>
         <entry key="tanvd.grazi">
           <value>
-            <PluginData>
-              <option name="enabled" value="false" />
-            </PluginData>
+            <PluginData />
           </value>
         </entry>
       </map>
