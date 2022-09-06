@@ -12,12 +12,12 @@
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
-    <mask>*.java</mask>
     <mask>*.java, *.feature</mask>
     <mask>*.java, *.feature, *.properties</mask>
     <mask>*.java, *.feature, *.properties, *.gradle</mask>
     <mask>*.js</mask>
     <mask>*.java, *.feature, *.properties, *.gradle, *.json</mask>
     <mask>*.feature</mask>
+    <mask>*.java</mask>
   </component>
 </application>
