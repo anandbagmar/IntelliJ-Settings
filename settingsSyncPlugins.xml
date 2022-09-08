@@ -368,7 +368,6 @@
                   <option value="gherkin" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -381,7 +380,6 @@
                   <option value="org.intellij.intelliLang" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
