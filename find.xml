@@ -19,5 +19,6 @@
     <mask>*.java, *.feature, *.properties, *.gradle, *.json</mask>
     <mask>*.feature</mask>
     <mask>*.java</mask>
+    <mask>*.json</mask>
   </component>
 </application>
