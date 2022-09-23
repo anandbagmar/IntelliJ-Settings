@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java, *.feature, *.properties, *.gradle" />
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*.md</mask>
@@ -13,12 +14,12 @@
     <mask>*.jsp</mask>
     <mask>*.java, *.feature</mask>
     <mask>*.java, *.feature, *.properties</mask>
-    <mask>*.java, *.feature, *.properties, *.gradle</mask>
     <mask>*.js</mask>
     <mask>*.java, *.feature, *.properties, *.gradle, *.json</mask>
-    <mask>*.feature</mask>
     <mask>*.json</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
+    <mask>*.feature</mask>
+    <mask>*.java, *.feature, *.properties, *.gradle</mask>
   </component>
 </application>
