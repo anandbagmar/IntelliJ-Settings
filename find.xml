@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java, *.feature, *.json" />
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*.md</mask>
@@ -20,5 +21,6 @@
     <mask>*.java, *.feature, *.properties, *.gradle</mask>
     <mask>*.feature</mask>
     <mask>*.java</mask>
+    <mask>*.java, *.feature, *.json</mask>
   </component>
 </application>
