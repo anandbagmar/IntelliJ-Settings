@@ -17,8 +17,9 @@
     <mask>*.java, *.feature, *.properties, *.gradle, *.json</mask>
     <mask>*.json</mask>
     <mask>*.properties</mask>
-    <mask>*.java</mask>
-    <mask>*.feature</mask>
     <mask>*.java, *.feature, *.properties, *.gradle</mask>
+    <mask>*.feature</mask>
+    <mask>*.java</mask>
+    <mask>*.java, *.feature, *.json</mask>
   </component>
 </application>
