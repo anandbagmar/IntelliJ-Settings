@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'teswiz'" />
-    <option name="defaultScopeName" value="Project 'teswiz'" />
-    <option name="SEARCH_SCOPE" value="Project 'teswiz'" />
+    <option name="customScope" value="Directory '…/src [merchantpos-system-tests]'" />
+    <option name="defaultScopeName" value="Directory '…/src [merchantpos-system-tests]'" />
+    <option name="SEARCH_SCOPE" value="Directory '…/src [merchantpos-system-tests]'" />
     <option name="FILE_MASK" value="*.java, *.feature, *.json, *.js" />
     <mask>*.as</mask>
     <mask>*.mxml</mask>
